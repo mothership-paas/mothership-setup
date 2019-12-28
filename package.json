@@ -1,0 +1,24 @@
+{
+  "name": "mothership-setup",
+  "version": "1.0.0",
+  "description": "Automated Mothership installer for DigitalOcean",
+  "bin": {
+    "mothership-setup": "./bin/setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mothership-paas/mothership-setup.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mothership-paas/mothership-setup/issues"
+  },
+  "homepage": "https://github.com/mothership-paas/mothership-setup#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "docker-machine": "^3.0.1",
+    "dockerode": "^3.0.2",
+    "ora": "^4.0.3",
+    "table": "^5.4.6"
+  }
+}
