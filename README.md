@@ -8,7 +8,7 @@
 
 * Clone repo
 * `cd` into repo
-* `yarn install`
-* `yarn link`
-* `mothership-setup`
+* Run `yarn install`
+* Run `yarn link`
+* Run `mothership-setup`
 * Provide your domain (without any subdomains) and DigitalOcean API token
